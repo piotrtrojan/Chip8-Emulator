@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chip8", "Chip8\Chip8.csproj", "{C3CD8C86-98C2-43E3-B7E8-DC7824DC0822}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chip8.CLI", "Chip8.CLI\Chip8.CLI.csproj", "{872A6437-9343-4EEA-993C-712A16BE7012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CD8C86-98C2-43E3-B7E8-DC7824DC0822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CD8C86-98C2-43E3-B7E8-DC7824DC0822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CD8C86-98C2-43E3-B7E8-DC7824DC0822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CD8C86-98C2-43E3-B7E8-DC7824DC0822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872A6437-9343-4EEA-993C-712A16BE7012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872A6437-9343-4EEA-993C-712A16BE7012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872A6437-9343-4EEA-993C-712A16BE7012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872A6437-9343-4EEA-993C-712A16BE7012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3535B3-5242-424D-B120-8C1866FAB7B8}
+	EndGlobalSection
+EndGlobal
